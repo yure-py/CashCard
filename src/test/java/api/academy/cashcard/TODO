@@ -1,0 +1,9 @@
+1. Create the test class CashCardJsonTest [src/test/java/api/cashcard]
+2. Create the first test
+
+    Take a moment to understand the test code: The @Test annotation is part of the JUnit library,
+    and the assertThat method is part of the AssertJ library. Both of these libraries are imported after the package statement
+
+
+3. Run tests
+4. fix test
